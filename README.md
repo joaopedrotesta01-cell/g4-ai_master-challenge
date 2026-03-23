@@ -1,5 +1,5 @@
 
-# **README** Challenge 003 — Lead Scorer
+# **Challenge 003 — Lead Scorer**
 
 > **AI Master Challenge · G4 Educação**
 > Área: Vendas / RevOps · Tipo: Build 
