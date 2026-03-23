@@ -21,7 +21,7 @@
 
 | Arquivo | Conteúdo |
 |---|---|
-| [`docs/macro.md`](docs/macro.md) | Big picture — problema, diagnóstico, decisões de design e KPIs esperados |
+| [`deals-priorization/docs/macro.md`](deals-priorization/docs/macro.md) | Big picture — problema, diagnóstico, decisões de design e KPIs esperados |
 | [`docs/heuristica.md`](docs/heuristica.md) | Análise exploratória completa — como os dados revelaram a tese central |
 | [`docs/logica.md`](docs/logica.md) | Detalhamento técnico do scoring, viabilidade e lógica de transferência |
 | [`docs/limitacoes.md`](docs/limitacoes.md) | O que o modelo não faz, trade-offs e caminhos de evolução |
