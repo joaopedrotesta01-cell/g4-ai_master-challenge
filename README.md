@@ -221,9 +221,14 @@ Transferido para um vendedor com carga de 41 deals e win rate de 57% no produto,
 
 ## Como rodar: Resumo Rápido
 
-> → Três terminais, três comandos. 
-
-> → Cada serviço roda de forma independente.
+> A primeira inicialização - sobretudo no streamlit - demora alguns segundos.
+> No primeiro carregamento, o sistema executa três etapas em sequência:
+>
+> - **Leitura e join dos dados** — os quatro CSVs do CRM são carregados e cruzados em memória
+> - **Cálculo de benchmarks** — medianas históricas, win rates por vendedor, produto e região são computados sobre as ~8.800 oportunidades
+> - **Warm-up do cache** — a API pré-aquece o cache no startup para que todas as requisições subsequentes sejam imediatas
+>
+> Após a inicialização, o sistema responde instantaneamente.
 
 * **Streamlit:** páginas como `Deals_Analysis.py` usam **Plotly** (`plotly.express`). 
 
@@ -246,6 +251,9 @@ uvicorn api.main:app --reload --port 8001
 cd deal-prioritization/frontend
 npm run dev
 ```
+> → Três terminais, três comandos. 
+
+> → Cada serviço roda de forma independente.
 
 | Serviço | URL | Depende de |
 |---|---|---|
