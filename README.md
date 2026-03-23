@@ -90,7 +90,9 @@ A solução roda com dados reais do CRM, gera ação recomendada para cada deal,
 
 ---
 
-  #### Streamlit View 
+#### Streamlit View 
+
+https://github.com/user-attachments/assets/fcc27460-0183-4412-a1ba-b6f86bd02018
 
   * Interface analítica com 26 páginas organizadas em seis grupos, acessíveis por um hub de navegação central.
 
@@ -105,13 +107,13 @@ A solução roda com dados reais do CRM, gera ação recomendada para cada deal,
     * Análises — seis painéis com gráficos interativos: saúde e tempo do pipeline, distribuição de ações recomendadas, performance por produto, análise regional, drilldown por vendedor e análise de transferências recomendadas.
 
     * Sistema — Descrição completa sobre inicialização, arquitetura & stack e API da aplicação.
-   
-    https://github.com/user-attachments/assets/fcc27460-0183-4412-a1ba-b6f86bd02018
 
 ---
 
 
 #### Seller View
+
+https://github.com/user-attachments/assets/e77fac96-b3b0-467b-8d9f-b27e4600d1ff
 
 * A experiência do vendedor começa com um dashboard pessoal: gráficos de saúde do pipeline, distribuição de ações recomendadas, série temporal de valor convertido e análise de win rate por produto — tudo filtrado para o próprio portfólio. 
 
@@ -126,11 +128,11 @@ A solução roda com dados reais do CRM, gera ação recomendada para cada deal,
     
   * O vendedor navega horizontalmente pelo feed, deal a deal, e sai sabendo exatamente o que fazer — sem precisar interpretar um único número.
 
-<!-- imagens / vídeo: seller view -->
-
 ---
 
 #### Manager View
+
+https://github.com/user-attachments/assets/79a40014-1fb7-46e2-a545-ec260c8f57be
 
 * A view do manager é organizada em cartões verticais que ocupam a altura total da tela, navegáveis com scroll. 
 
@@ -140,9 +142,6 @@ A solução roda com dados reais do CRM, gera ação recomendada para cada deal,
       * *Transfer Analysis* (4 métricas de resumo — total de transfers, críticos, consider e score médio — seguidas de dois gráficos, razões mais frequentes para transferência e distribuição do ganho de viabilidade esperado, e três mini-cards de impacto: Δ viabilidade média, viabilidade atual → target e contagem de transfers de alto impacto). 
     
       * Outros cartões incluem **Transfers** (feed de deals com ações TRANSFER e CONSIDER_TRANSFER), **Seller Analysis** (drilldown por vendedor), **Alertas** e **Squad** (cards dos vendedores com acesso à seller view).
-
-<!-- imagens / vídeo: manager view -->
-
 
 ---
 
