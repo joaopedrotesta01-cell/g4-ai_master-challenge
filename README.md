@@ -1,5 +1,4 @@
 
-https://github.com/user-attachments/assets/fcc27460-0183-4412-a1ba-b6f86bd02018
 # **README** Challenge 003 — Lead Scorer
 
 > **AI Master Challenge · G4 Educação**
@@ -107,8 +106,7 @@ A solução roda com dados reais do CRM, gera ação recomendada para cada deal,
 
     * Sistema — Descrição completa sobre inicialização, arquitetura & stack e API da aplicação.
    
-
-    Uploading streamlit.view.compact.mp4…
+    https://github.com/user-attachments/assets/fcc27460-0183-4412-a1ba-b6f86bd02018
 
 ---
 
