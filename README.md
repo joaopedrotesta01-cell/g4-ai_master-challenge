@@ -228,7 +228,7 @@ Transferido para um vendedor com carga de 41 deals e win rate de 57% no produto,
 > - **Cálculo de benchmarks** — medianas históricas, win rates por vendedor, produto e região são computados sobre as ~8.800 oportunidades
 > - **Warm-up do cache** — a API pré-aquece o cache no startup para que todas as requisições subsequentes sejam imediatas
 >
-> Após a inicialização, o sistema responde instantaneamente.
+> Após a primeira inicialização, o sistema roda em cache, respondendo instantaneamente.
 
 * **Streamlit:** páginas como `Deals_Analysis.py` usam **Plotly** (`plotly.express`). 
 
