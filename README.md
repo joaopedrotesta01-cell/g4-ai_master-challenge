@@ -21,13 +21,13 @@
 
 | Arquivo | Conteúdo |
 |---|---|
-| [`deals-priorization/docs/macro.md`](deals-priorization/docs/macro.md) | Big picture — problema, diagnóstico, decisões de design e KPIs esperados |
-| [`deals-priorization/docs/heuristica.md`](deals-priorization/docs/heuristica.md) | Análise exploratória completa — como os dados revelaram a tese central |
-| [`deals-priorization/docs/logica.md`](deals-priorization/docs/logica.md) | Detalhamento técnico do scoring, viabilidade e lógica de transferência |
-| [`deals-priorization/docs/limitacoes.md`](deals-priorization/docs/limitacoes.md) | O que o modelo não faz, trade-offs e caminhos de evolução |
-| [`deals-priorization/docs/stack.md`](deals-priorization/docs/stack.md) | Arquitetura, estrutura de pastas e decisões de design |
-| [`deals-priorization/docs/inicializacao.md`](deals-priorization/docs/inicializacao.md) | Pré-requisitos e instruções completas de inicialização dos três serviços |
-| [`deals-priorization/docs/README.api.md`](deals-priorization/docs/README.api.md) | Documentação de todos os endpoints REST |
+| Macro.md | Big picture — problema, diagnóstico, decisões de design e KPIs esperados |
+| Heuristica.md | Análise exploratória completa — como os dados revelaram a tese central |
+| Logica.md | Detalhamento técnico do scoring, viabilidade e lógica de transferência |
+| Limitacoes.md | O que o modelo não faz, trade-offs e caminhos de evolução |
+| Stack.md | Arquitetura, estrutura de pastas e decisões de design |
+| Inicializacao.md | Pré-requisitos e instruções completas de inicialização dos três serviços |
+| README.api.md | Documentação de todos os endpoints REST |
 
 ---
 ## O Desafio
@@ -429,14 +429,3 @@ deal-prioritization/
 → Análise completa com caminhos de evolução em [`docs/limitacoes.md`](docs/limitacoes.md)
 
 ---
-
-## Documentação
-
-| Arquivo | Conteúdo |
-|---|---|
-| [`docs/macro.md`](docs/macro.md) | Big picture — problema, diagnóstico, solução, KPIs esperados |
-| [`docs/heuristica.md`](docs/heuristica.md) | Análise exploratória completa — como chegamos na tese |
-| [`docs/logica.md`](docs/logica.md) | Detalhamento técnico do scoring e lógica de transferência |
-| [`docs/README.api.md`](docs/README.api.md) | Documentação de todos os endpoints REST |
-| [`docs/stack.md`](docs/stack.md) | Arquitetura, estrutura de pastas, decisões de design |
-| [`docs/limitacoes.md`](docs/limitacoes.md) | O que o modelo não faz e o que precisaria pra escalar |
