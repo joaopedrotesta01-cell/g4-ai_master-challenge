@@ -1,3 +1,5 @@
+
+https://github.com/user-attachments/assets/fcc27460-0183-4412-a1ba-b6f86bd02018
 # **README** Challenge 003 — Lead Scorer
 
 > **AI Master Challenge · G4 Educação**
@@ -103,9 +105,10 @@ A solução roda com dados reais do CRM, gera ação recomendada para cada deal,
 
     * Análises — seis painéis com gráficos interativos: saúde e tempo do pipeline, distribuição de ações recomendadas, performance por produto, análise regional, drilldown por vendedor e análise de transferências recomendadas.
 
-    * Sistema — Descrição completa sobre inicialização, arquitetura & stack e API da aplicação. 
+    * Sistema — Descrição completa sobre inicialização, arquitetura & stack e API da aplicação.
+   
 
-<!-- imagens / vídeo: streamlit view -->
+    Uploading streamlit.view.compact.mp4…
 
 ---
 
